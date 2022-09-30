@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<LocalSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <client>300</client>
+  <userName>raf_user</userName>
+  <password>S+Y9RiIsZWXpvn3oP8L6cQc3wjNos18A/asjN8PUSbQ=</password>
+  <language>EN</language>
+  <systNo>00</systNo>
+  <serverName>SAP</serverName>
+  <programId>SCALE_ROSS_PLACE_1</programId>
+  <sapGWHost>sapecq01.becampbell.com.au</sapGWHost>
+  <sapGateway>sapgw00</sapGateway>
+  <destName>SAP</destName>
+  <IPAddress>172.16.170.238</IPAddress>
+  <port>3002</port>
+  <detailedLogs>false</detailedLogs>
+</LocalSettings>

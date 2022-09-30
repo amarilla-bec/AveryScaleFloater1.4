@@ -1,0 +1,38 @@
+
+**** Log file opened by process 12708 at 2022-06-16 16:18:49 (UTC+10:00 AUS Eastern Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.24.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: S:\IT\04 Applications\BEC\04 Testing\AveryScaleFloater 1.4\ScaleRfcApp\bin\x64\AveryScale.exe
+Working directory: S:\IT\04 Applications\BEC\04 Testing\AveryScaleFloater 1.4\ScaleRfcApp\bin\x64
+Operating system: Windows Server 2016 Standard Server 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 722, Kernel release: 722, Kernel patch level: 1024
+Hostname: BECRDSVTS99, IP address: 172.16.100.9, IP_v6 address: ::1
+
+Default trace level: None
+
+>> Warning entry 2022-06-16 16:18:49.636 [Thread 1]
+Hard shutdown of server SAP
+
+**** Log file opened by process 17552 at 2022-06-16 16:24:32 (UTC+10:00 AUS Eastern Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.24.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: S:\IT\04 Applications\BEC\04 Testing\AveryScaleFloater 1.4\ScaleRfcApp\bin\x64\AveryScale.exe
+Working directory: S:\IT\04 Applications\BEC\04 Testing\AveryScaleFloater 1.4\ScaleRfcApp\bin\x64
+Operating system: Windows Server 2016 Standard Server 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 722, Kernel release: 722, Kernel patch level: 1024
+Hostname: BECRDSVTS99, IP address: 172.16.100.9, IP_v6 address: ::1
+
+Default trace level: None
+
+>> Warning entry 2022-06-16 16:24:32.709 [Thread 11]
+Hard shutdown of server SAP
+>> Warning entry 2022-06-16 16:35:09.021 [Thread 11]
+Hard shutdown of server SAP
+>> Warning entry 2022-06-16 16:36:44.031 [Thread 1]
+Hard shutdown of server SAP
+>> Warning entry 2022-06-16 16:41:59.034 [Thread 1]
+Hard shutdown of server SAP
+>> Warning entry 2022-06-16 16:46:30.323 [Thread 1]
+Hard shutdown of server SAP
